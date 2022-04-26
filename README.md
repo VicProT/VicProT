@@ -1,16 +1,13 @@
-### Hi there 👋
+### Salve! Me chamo de Victor Nascimento - Futuro Dev Java
 
-<!--
-**VicProT/VicProT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Ciências da Computação
+- Procurando estágio
+- Conhecimento : HTML,CSS JavaScript, SQL, Java,C
 
-Here are some ideas to get you started:
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicProT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicProT&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
